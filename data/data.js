@@ -1,0 +1,42 @@
+export const data = [
+  {
+    name: "sheer 10.2' tablet with wi-fi,32GB",
+    price: 58.0,
+    img: "https://static.wixstatic.com/media/c22c23_67a4de6683784fbbb684418e49d5d854~mv2.png/v1/fill/w_383,h_383,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_67a4de6683784fbbb684418e49d5d854~mv2.png",
+    tag: "tablets",
+    sale: false,
+    sale_price: 0.0,
+  },
+  {
+    name: "JP-space tablet 10.4' wi-fi 32GB",
+    price: 85.0,
+    img: "https://static.wixstatic.com/media/c22c23_9a6d29ecf9c640b28cc79f695e9fb3c2~mv2.png/v1/fill/w_383,h_383,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_9a6d29ecf9c640b28cc79f695e9fb3c2~mv2.png",
+    tag: "tablets",
+    sale: true,
+    sale_price: 70.0,
+  },
+  {
+    name: "Pilates Go 10.5' Touch-Screen, 64GB With Cover",
+    price: 85.0,
+    img: "https://static.wixstatic.com/media/c22c23_23738414163d418092290f6b9becc5f5~mv2.png/v1/fill/w_383,h_383,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_23738414163d418092290f6b9becc5f5~mv2.png",
+    tag: "tablets",
+    sale: false,
+    sale_price: 0.0,
+  },
+  {
+    name: "ove tablet FD plus - 10.3',32GB",
+    price: 85.0,
+    img: "https://static.wixstatic.com/media/c22c23_5669a61229d34b15b7ff71c4f2269a4b~mv2.png/v1/fill/w_383,h_383,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5669a61229d34b15b7ff71c4f2269a4b~mv2.png",
+    tag: "tablets",
+    sale: true,
+    sale_price: 70.0,
+  },
+  {
+    name: "pilates 14' touch screen laptop 12GB memory",
+    price: 85.0,
+    img: "https://static.wixstatic.com/media/c22c23_01a8a61a9f6c4e3a97711b8c684050e9~mv2.png/v1/fill/w_383,h_383,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_01a8a61a9f6c4e3a97711b8c684050e9~mv2.png",
+    tag: "computers",
+    sale: false,
+    sale_price: 0.0,
+  },
+];
