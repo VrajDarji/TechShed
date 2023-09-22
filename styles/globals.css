@@ -55,3 +55,6 @@ html::-webkit-scrollbar {
   grid-template-columns: 17% 81%;
   gap: 1%;
 }
+.overflow-y-scroll::-webkit-scrollbar{
+  display: none;
+}

@@ -13,7 +13,7 @@ const SbyCat = () => {
           {cat.map((e, index) => (
             <div
               key={index}
-              className="w-full aspect-square flex flex-col gap-5"
+              className="w-full aspect-square flex flex-col gap-5 overflow-hidden rounded-full"
             >
               <Link href={e.link}>
                 <Image
@@ -21,7 +21,7 @@ const SbyCat = () => {
                   alt="logo"
                   width={500}
                   height={500}
-                  className="w-full aspect-square rounded-full"
+                  className="w-full aspect-square hover:scale-110 fadeout"
                 />
               </Link>
               <p className="text-center text-lg font-medium capitalize">
