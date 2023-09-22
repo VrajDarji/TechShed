@@ -7,6 +7,7 @@ import HomeSale from "@components/HomeSale";
 import SbyCat from "@components/SbyCat";
 import SDrone from "@components/SDrone";
 import Newsletter from "@components/Newsletter";
+import UpFooter from "@components/UpFooter";
 export default function Home() {
   return (
     <>
@@ -19,6 +20,7 @@ export default function Home() {
       <HomeSale />
       <SDrone />
       <Newsletter />
+      <UpFooter />
     </>
   );
 }

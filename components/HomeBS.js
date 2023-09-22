@@ -10,7 +10,8 @@ const HomeBS = () => {
     try {
       if (response.ok) {
         const result = await response.json();
-        setData(result);
+        const a = result.filter((e, index) => index % 2 === 0);
+        setData(a.slice(0, 5));
         console.log(result);
       }
     } catch (err) {

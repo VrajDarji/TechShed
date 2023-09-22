@@ -10,8 +10,9 @@ const HomeSale = () => {
     try {
       if (response.ok) {
         const result = await response.json();
-        setData(result);
-        console.log(result);
+        const a = result.filter((e) => e.sale === true);
+        setData(a.slice(0,5));
+        console.log(a);
       }
     } catch (err) {
       console.error(err);

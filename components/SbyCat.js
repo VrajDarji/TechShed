@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import { cat } from "@data/SbyCat";
+import Link from "next/link";
 const SbyCat = () => {
   return (
     <div className="w-full px-10 pb-10">
@@ -14,13 +15,15 @@ const SbyCat = () => {
               key={index}
               className="w-full aspect-square flex flex-col gap-5"
             >
-              <Image
-                src={e.img}
-                alt="logo"
-                width={500}
-                height={500}
-                className="w-full aspect-square rounded-full"
-              />
+              <Link href={e.link}>
+                <Image
+                  src={e.img}
+                  alt="logo"
+                  width={500}
+                  height={500}
+                  className="w-full aspect-square rounded-full"
+                />
+              </Link>
               <p className="text-center text-lg font-medium capitalize">
                 {e.t}
               </p>
