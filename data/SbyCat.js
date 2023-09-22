@@ -11,7 +11,7 @@ export const cat = [
   },
   {
     t: "drone & cameras",
-    link: "shop all?q=drone and cameras",
+    link: "shop all?q=drones and cameras",
     img: "https://static.wixstatic.com/media/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.jpg/v1/fill/w_249,h_249,q_90/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.webp 1x, https://static.wixstatic.com/media/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.jpg/v1/fill/w_498,h_498,q_90/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.webp 2x, https://static.wixstatic.com/media/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.jpg/v1/fill/w_747,h_747,q_90/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.webp 3x, https://static.wixstatic.com/media/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.jpg/v1/fill/w_996,h_996,q_90/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.webp 4x, https://static.wixstatic.com/media/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.jpg/v1/fill/w_1245,h_1245,q_90/c837a6_acb2a2d93555449693ae233b93cb3feb~mv2.webp 5x",
   },
   {
@@ -31,7 +31,7 @@ export const cat = [
   },
   {
     t: "T.V. & home cinemas",
-    link: "shop all?q=T.V. and home cinemas",
+    link: "shop all?q=T.V. and home cinema",
     img: "https://static.wixstatic.com/media/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.jpg/v1/fill/w_250,h_249,q_90/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.webp 1x, https://static.wixstatic.com/media/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.jpg/v1/fill/w_500,h_498,q_90/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.webp 2x, https://static.wixstatic.com/media/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.jpg/v1/fill/w_750,h_747,q_90/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.webp 3x, https://static.wixstatic.com/media/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.jpg/v1/fill/w_1000,h_996,q_90/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.webp 4x, https://static.wixstatic.com/media/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.jpg/v1/fill/w_1250,h_1245,q_90/c837a6_7a28e7356d6d4e9dbc6e0b1dfb2ac9b6~mv2.webp 5x",
   },
   {

@@ -96,7 +96,7 @@ export const data = [
     sale_price: 0.0,
   },
   {
-    name: "shel 50&quot; class LED 4K UHD smart TV ",
+    name: "shel 50' class LED 4K UHD smart TV ",
     price: 85.0,
     img: "https://static.wixstatic.com/media/c22c23_77c2b89535374768bec1d6337dcdbddc~mv2.jpg/v1/fill/w_383,h_383,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_77c2b89535374768bec1d6337dcdbddc~mv2.jpg",
     tag: "T.V. and home cinema",
